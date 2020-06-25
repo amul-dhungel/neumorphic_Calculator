@@ -1,7 +1,6 @@
 # calculator
 
-A new Flutter project.
-
+This is the neumorphic design of the calculator with dark and light theme switch mode.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
